@@ -1,0 +1,180 @@
+﻿string.lang_code = el
+
+string.name = Όνομα
+string.ok = Εντάξει
+string.add = Προσθήκη
+string.edit = Επεξεργασία
+string.delete = Διαγραφή
+string.cancel = Άκυρο
+string.close = Κλείσιμο
+string.open = Άνοιγμα του Todomoo
+string.exit = Έξοδος
+string.close_program = Κλείσιμο του Todomoo
+string.minimize_to_tray = Ελαχιστοποίηση στη γραμμή εργασιών
+string.default = Προεπιλογή
+string.invalid_entry = Μη έγκυρη καταχώρηση
+string.already_running = Το Todomoo εκτελείται ήδη
+
+string.hide_completed_tasks = Απόκρυψη ολοκληρωμένων εργασιών
+string.flat_view = Επίπεδη προβολή
+string.expand_all = Ανάπτυξη όλων
+string.collapse_all = Σύμπτυξη όλων
+
+string.info = Πληροφορίες
+string.warning = Προειδοποίηση
+string.error = Σφάλμα
+string.critical = Κρίσιμο σφάλμα
+string.confirm = Επιβεβαίωση
+
+string.category = Κατηγορία
+string.category_new = Νέα κατηγορία
+string.category_new_short = Νέα
+string.category_edit_current = Επεξεργασία τρέχουσας κατηγορίας
+string.category_delete_current = Διαγραφή τρέχουσας κατηγορίας
+string.category_all = Όλες
+string.category_loading_error = Προβλήματα κατά τη φόρτωση κατηγορίας
+string.category_add = Νέα κατηγορία
+string.category_edit = Επεξεργασία κατηγορίας
+string.category_delete = Διαγραφή κατηγορίας
+string.category_save_error = Δεν είναι δυνατή η αποθήκευση κατηγορίας
+string.category_delete_error = Δεν είναι δυνατή η διαγραφή κατηγορίας
+string.category_delete_not_empty = Μπορείτε να διαγράψετε μόνο κενές κατηγορίες
+string.category_delete_confirm = Είστε βέβαιος ότι θέλετε να διαγράψετε την κατηγορία και όλες τις εργασίες της;
+string.category_must_create = Πρέπει να δημιουργήσετε μια κατηγορία
+
+string.task = εργασία
+string.task_ufirst = Εργασία
+string.tasks = εργασίες
+string.task_loading_error = Προβλήματα κατά τη φόρτωση εργασίας
+string.task_name = Όνομα
+string.task_description = Περιγραφή
+string.task_priority = Προτεραιότητα
+string.task_creation_date = Ημερ/νία δημιουργίας
+string.task_due_date = Ημερ/νία περαίωσης
+string.task_due_date_not = Καμία
+string.task_completed = Ολοκληρώθηκε
+string.task_completed_not = Σε εκκρεμότητα
+string.task_timer = Χρονόμετρο
+string.task_price = Τιμή
+string.task_price_not = Καμία
+string.task_price_sum = Σύνολο επιμ. εργασ.
+string.task_paid = Πληρώθηκε
+string.task_paid_not = Χωρίς τίμημα
+string.task_perhour = Ανά ώρα
+string.task_payment = Όροι πληρωμής
+string.task_payment_note = Σημείωση πληρωμής
+string.task_notes = Σημειώσεις
+string.task_attachments = Συνημμένα
+string.task_new = Νέα εργασία
+string.task_add = Νέα εργασία
+string.task_edit = Επεξεργασία εργααίας
+string.task_move = Μετακίνηση εργασίας
+string.task_delete = Διαγραφή εργασίας
+string.task_delete_confirm = Διαγραφή της επιλεγμένης εργασίας;
+string.task_delete_confirm_with_children = Διαγραφή της εργασίας και όλων των επιμέρους εργασιών;
+string.task_save_error = Δεν είναι δυνατή η αποθήκευση της εργασίας
+string.task_delete_error = Δεν είναι δυνατή η διαγραφή της εργασίας
+string.task_edit_error = Δεν είναι δυνατή η επεξεργασία της εργασίας
+string.task_use_timer = Χρήση ενός χρονομέτρου γι΄αυτή την εργασία
+string.task_timer_start = Έναρξη χρονομέτρου εργασίας
+string.task_timer_pause = Παύση χρονομέτρου εργασίας
+string.task_timer_reset = Μηδενισμός
+string.task_timer_sum = Σύνολο επιμέρους εργασιών
+string.task_timer_error = Δεν είναι δυνατή η επεξεργασία του χρονομέτρου εργασίας
+string.task_timer_is_running = Το χρονόμετρο τρέχει. Δεν μπορείτε να το διορθώσετε τώρα.
+string.task_sub_of = Επιμέρ. εργασία του
+string.task_sub_new = Νέα επιμέρους εργασία του επιλεγμένου
+string.task_sub_new_tray = Νέα επιμέρους εργασία του
+string.task_sub_new_short = Νέα επιμέρους εργασία
+string.task_dates_time = Ημερομηνία και ώρα
+string.task_payments = Πληρωμή
+string.task_notes_view = Προβολή σημειώσεων
+string.task_payment_edit = Επεξεργασία στοιχείων πληρωμής
+string.task_set_completed = Σήμανση εργασίας ως ολοκληρωμένη
+string.task_set_uncompleted = Σήμανση εργασίας μη ολοκληρωμένη
+
+string.today = Σήμερα
+string.tomorrow = Αύριο
+string.yesterday = Χθές
+
+string.task_move_in = Μετακίνηση σε
+string.task_move_as_sub_of = Μετακίνηση ως επιμέρους εργασία του
+string.task_moving_error = Δεν μπορεί να μετακινηθεί η εργασία σε αυτή τη θέση
+
+string.note_new = Νέα σημείωση
+string.note_delete = Διαγραφή επιλεγμένης σημείωσης
+string.note_loading_error = Προβλήματα κατά τη φόρτωση σημείωσης
+string.note_save_error = Δεν είναι δυνατή η αποθήκευση της σημείωσης
+string.note_delete_error = Δεν είναι δυνατή η διαγραφή της σημείωσης
+string.note_monospace = Σταθ. πλάτος
+string.note_word_wrap = Αναδίπλ. λέξεων
+
+string.colour = Χρώμα
+string.colour_choose = Περισσότ.
+string.colour_as = Όπως
+
+string.tools = Εργαλεία
+
+string.export_csv = Εξαγωγή CSV
+string.export_csv_title = Εξαγωγή όλων των εργασιών σε CSV
+string.export_csv_ok = Τα δεδομένα αποθηκεύτηκαν στο
+string.export_csv_error = Δεν ήταν δυνατή η εξαγωγή δεδομένων. Άγνωστο σφάλμα.
+
+string.backup_do = Αντίγραφο ασφαλείας της βάσης δεδομένων
+string.backup_done = Η δημιουργία αντιγράφου ασφαλείας ολοκληρώθηκε
+string.backup_error = Δεν ήταν δυνατή η εξασφάλιση της βάσης δεδομένων
+string.backup_in = Αντίγραφο ασφαλείας της βάσης δεδομένων σε
+
+string.options = Επιλογές
+string.options_gui = Περιβάλλον (GUI)
+string.options_appearance = Εμφάνιση
+string.options_style_flat = Επίπεδη
+string.options_style_standard = Κανονική
+string.options_menu = Μενού
+string.options_toolbar = Εργαλειοθήκη
+string.options_categories_bar = Γραμμή κατηγοριών
+string.options_language = Γλώσσα
+string.options_currency = Νόμισμα
+string.options_backups = Αντίγραφα ασφαλείας
+string.options_automatic_backup = Αυτόματη δημιουργία αντιγράφων ασφαλείας
+string.options_automatic_backup_text = Εξασφάλιση της βάσης δεδομένων όταν το Todomoo κλείνει
+string.options_backup_tip = Εάν θέλετε να επαναφέρετε ένα αντίγραφο ασφαλείας, ανοίξτε το φάκελο αντιγράφων ασφαλείας, κλείστε το Todomoo και αντικαταστήστε το αρχείο «db.sqlite» (που βρίσκεται στο φάκελο του Todomoo) με ένα αντίγραφο.
+string.options_backup_dir = Άνοιγμα φακέλου αντιγρ. ασφαλείας
+string.options_behaviour = Συμπεριφορά
+string.options_closing = Όταν το κύριο παράθυρο είναι κλειστό
+
+string.running_timers_confirm = Υπάρχουν χρονόμετρα σε λειτουργία. Το κλείσιμο του Todomoo θα τα σταματήσει.
+
+string.help_website = Επίσκεψη στην ιστοσελίδα του Todomoo
+string.help_project_page = Επίσκεψη στη σελίδα δημιουργίας στο SourceForge.net
+string.help_about = Περί Todomoo
+
+string.priority_set_error = Δεν είναι δυνατό να οριστεί η προτεραιότητα
+string.priority_low = Χαμηλή
+string.priority_medium = Μέση
+string.priority_high = Υψηλή
+
+string.status_loading_categories = Φόρτωση κατηγοριών
+string.status_loading_tasks = Φόρτωση εργασιών
+string.status_loaded_categories = κατηγορίες φορτώθηκαν
+string.status_loaded_tasks = εργασίες φορτώθηκαν
+string.status_loaded_category = κατηγορία φορτώθηκε
+string.status_loaded_task = εργασία φορτώθηκε
+string.status_total_task = συνολική εργασία
+string.status_total_tasks = συνολικά εργασίες
+string.status_cat_task = εργασία σ΄αυτή την κατηγορία
+string.status_cat_tasks = εργασίες σ΄αυτή την κατηγορία
+string.status_hidden_task = κρυφή εργασία
+string.status_hidden_tasks = κρυφές εργασίες
+string.status_completed_task = ολοκληρωμένη εργασία
+string.status_completed_tasks = ολοκληρωμένες εργασίες
+
+string.updates = Ενημερώσεις
+string.updates_check = Έλεγχος για ενημερώσεις
+string.updates_checking = Έλεγχος για ενημερώσεις
+string.updates_updated = Δεν υπάρχουν διαθέσιμες ενημερώσεις. Έχετε την τελευταία έκδοση του Todomoo.
+string.updates_new_version = Μια νέα έκδοση, {0} είναι διαθέσιμη για λήψη!
+string.updates_download_setup = Λήψη έκδοσης εγκατάστασης {0} του Todomoo ({1} KB)
+string.updates_download_portable = Λήψη φορητής έκδοσης {0} του Todomoo ({1} KB)
+string.updates_error = Δεν είναι δυνατή η σύνδεση στον ιστότοπο του Todomoo. Προσπαθήστε αργότερα.
+string.updates_auto = Αυτόματος έλεγχος για ενημερώσεις

@@ -1,0 +1,12 @@
+D:\Todomoo 0.10 Sources\Todomoo\Bin\Todomoo\todomoo.exe
+D:\Todomoo 0.10 Sources\Todomoo\Obj\Todomoo\ResolveAssemblyReference.cache
+D:\Todomoo 0.10 Sources\Todomoo\Obj\Todomoo\Todomoo.AboutForm.resources
+D:\Todomoo 0.10 Sources\Todomoo\Obj\Todomoo\Todomoo.CategoryForm.resources
+D:\Todomoo 0.10 Sources\Todomoo\Obj\Todomoo\Todomoo.MainForm.resources
+D:\Todomoo 0.10 Sources\Todomoo\Obj\Todomoo\Todomoo.OptionsForm.resources
+D:\Todomoo 0.10 Sources\Todomoo\Obj\Todomoo\Todomoo.TaskForm.resources
+D:\Todomoo 0.10 Sources\Todomoo\Obj\Todomoo\Todomoo.UpdatesForm.resources
+D:\Todomoo 0.10 Sources\Todomoo\Obj\Todomoo\GenerateResource-ResGen.read.1.tlog
+D:\Todomoo 0.10 Sources\Todomoo\Obj\Todomoo\GenerateResource-ResGen.read.4.tlog
+D:\Todomoo 0.10 Sources\Todomoo\Obj\Todomoo\GenerateResource-ResGen.write.1.tlog
+D:\Todomoo 0.10 Sources\Todomoo\Obj\Todomoo\todomoo.exe

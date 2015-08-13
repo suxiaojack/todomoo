@@ -1,0 +1,1 @@
+Todomoo is a todo manager oriented to manage paid projects without advanced scheduling. It organizes projects in hierarchical tasks, save notes, stores payment details and timers for each task. Fully portable, it uses SQLite.

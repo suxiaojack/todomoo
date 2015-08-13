@@ -1,0 +1,180 @@
+﻿string.lang_code = zh
+
+string.name = 名称
+string.ok = 确定
+string.add = 增加
+string.edit = 编辑
+string.delete = 删除
+string.cancel = 取消
+string.close = 关闭
+string.open = 打开Todomoo
+string.exit = 退出
+string.close_program = 关闭Todomoo
+string.minimize_to_tray = 最小化到托盘
+string.default = 默认
+string.invalid_entry = 非法入口
+string.already_running = Todomoo正在运行
+
+string.hide_completed_tasks = 隐藏完成任
+string.flat_view = 平铺视图
+string.expand_all = 展开所有
+string.collapse_all = 收起所有
+
+string.info = 信息
+string.warning = 警告
+string.error = 错误
+string.critical = 严重错误
+string.confirm = 确认呢
+
+string.category = 分类
+string.category_new = 新分类
+string.category_new_short = 新分类
+string.category_edit_current = 编辑当前分类
+string.category_delete_current = 删除当前分类
+string.category_all = 所有
+string.category_loading_error = 载入分类出错
+string.category_add = 新分类
+string.category_edit = 编辑分类
+string.category_delete = 删除分类
+string.category_save_error = 无法保存分类
+string.category_delete_error = 无法删除分类
+string.category_delete_not_empty = 只能删除空分类
+string.category_delete_confirm = 确定删除当前分类及其所有子分类？
+string.category_must_create = 必须创建一个分类
+
+string.task = 任务
+string.task_ufirst = 任务
+string.tasks = 任务
+string.task_loading_error = 载入任务时出错
+string.task_name = 名称
+string.task_description = 描述
+string.task_priority = 优先级
+string.task_creation_date = 创建日期
+string.task_due_date = 截止时间
+string.task_due_date_not = 无
+string.task_completed = 完成时间
+string.task_completed_not = 未完成
+string.task_timer = 计时器
+string.task_price = 价格
+string.task_price_not = 无
+string.task_price_sum = 子任务之和
+string.task_paid = 已支付
+string.task_paid_not = 未付款
+string.task_perhour = 每小时
+string.task_payment = 支付形式
+string.task_payment_note = 支付笔记
+string.task_notes = 笔记
+string.task_attachments = 附件
+string.task_new = 新任务
+string.task_add = 新任务
+string.task_edit = 编辑任务
+string.task_move = 移动任务
+string.task_delete = 删除任务
+string.task_delete_confirm = 删除选中任务？
+string.task_delete_confirm_with_children = 删除任务和所有子任务？
+string.task_save_error = 无法存储任务
+string.task_delete_error = 无法删除任务
+string.task_edit_error = 无法编辑任务
+string.task_use_timer = 为此任务增加计时器
+string.task_timer_start = 启动计时器
+string.task_timer_pause = 暂停计时器
+string.task_timer_reset = 重置
+string.task_timer_sum = 子任务求和
+string.task_timer_error = 无法编辑任务计时器
+string.task_timer_is_running = 计时器正在运行，现在无法编辑
+string.task_sub_of = 子任务
+string.task_sub_new = 选中任务的子任务
+string.task_sub_new_tray = 新建子任务
+string.task_sub_new_short = 新建子任务
+string.task_dates_time = 日期和时间
+string.task_payments = 支付
+string.task_notes_view = 查看笔记
+string.task_payment_edit = 编辑支付细节
+string.task_set_completed = 标记任务完成
+string.task_set_uncompleted = 标记任务未完成
+
+string.today = 今天
+string.tomorrow = 明天
+string.yesterday = 昨天
+
+string.task_move_in = 移动
+string.task_move_as_sub_of = 作为子任务移动
+string.task_moving_error = 不能在这里移动任务
+
+string.note_new = 新笔记
+string.note_delete = 删除选中笔记
+string.note_loading_error = 载入笔记时出错
+string.note_save_error = 无法保存笔记
+string.note_delete_error = 无法删除笔记
+string.note_monospace = 等宽
+string.note_word_wrap = 自动换行
+
+string.colour = 颜色
+string.colour_choose = 更多
+string.colour_as = 作为
+
+string.tools = 工具
+
+string.export_csv = 导出CSV
+string.export_csv_title = 从CSV导出所有任务
+string.export_csv_ok = 保存任务至
+string.export_csv_error = 无法导出数据，未知错误。
+
+string.backup_do = 备份数据库
+string.backup_done = 备份完成
+string.backup_error = 无法备份数据库
+string.backup_in = 备份数据库至
+
+string.options = 选项
+string.options_gui = 界面
+string.options_appearance = 外观
+string.options_style_flat = Flat
+string.options_style_standard = 标准
+string.options_menu = 菜单
+string.options_toolbar = 工具栏
+string.options_categories_bar = 分类栏
+string.options_language = 语言
+string.options_currency = 汇率
+string.options_backups = 备份
+string.options_automatic_backup = 自动备份
+string.options_automatic_backup_text = Todomoo关闭时备份数据库
+string.options_backup_tip = 如果需要替换备份，打开备份目录，关闭Todomoo，替换db.sqlite文件（在Todmoo执行目录下面）
+string.options_backup_dir = 打开备份目录
+string.options_behaviour = 动作
+string.options_closing = 当主窗口关闭时
+
+string.running_timers_confirm = 现在有运行窗口，关闭Todomoo会停止它们。
+
+string.help_website = 访问Todomoo网站
+string.help_project_page = 在SourceForge.net上访问项目页面。
+string.help_about = 关于Todomoo
+
+string.priority_set_error = 无法设置优先级
+string.priority_low = 低
+string.priority_medium = 中
+string.priority_high = 高
+
+string.status_loading_categories = 载入分类
+string.status_loading_tasks = 载入任务
+string.status_loaded_categories = 分类载入完毕
+string.status_loaded_tasks = 任务载入完毕
+string.status_loaded_category = 分类载入完毕
+string.status_loaded_task = 任务载入完毕
+string.status_total_task = 所有任务
+string.status_total_tasks = 所有任务
+string.status_cat_task = 此分类的任务
+string.status_cat_tasks = 此分类的任务
+string.status_hidden_task = 隐藏任务
+string.status_hidden_tasks = 隐藏任务
+string.status_completed_task = 完成任务
+string.status_completed_tasks = 完成任务
+
+string.updates = 更新
+string.updates_check = 检查更新
+string.updates_checking = 正在检查更新
+string.updates_updated = 没有更新可用，你正在应用最新的Todomoo版本。
+string.updates_new_version = 新版本, {0} 可下载!
+string.updates_download_setup = 下载 Todomoo {0} setup ({1} KB)
+string.updates_download_portable = 下载 Todomoo {0} portable ({1} KB)
+string.updates_error = 无法连接Todomoo网站，请稍候再试
+string.updates_auto = 自动检查更新

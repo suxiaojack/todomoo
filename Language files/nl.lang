@@ -1,0 +1,180 @@
+﻿string.lang_code = nl
+
+string.name = Naam
+string.ok = Ok
+string.add = Toevoegen
+string.edit = Opslaan
+string.delete = Verwijder
+string.cancel = Annuleren
+string.close = Sluiten
+string.open = Open Todomoo
+string.exit = Afsluiten
+string.close_program = Todomoo afsluiten
+string.minimize_to_tray = Minimaliseren naar tray
+string.default = Standaard
+string.invalid_entry = Verkeerde invoer
+string.already_running = Todomoo wordt al uitgevoerd
+
+string.hide_completed_tasks = Verberg voltooide taken
+string.flat_view = Platte lijst
+string.expand_all = Alles uitklappen
+string.collapse_all = Alles inklappen
+
+string.info = Informatie
+string.warning = Waarschuwing
+string.error = Fout
+string.critical = Kritieke fout
+string.confirm = Bevestig
+
+string.category = Categorie
+string.category_new = Nieuwe categorie
+string.category_new_short = Nieuw
+string.category_edit_current = Bewerk huidige categorie
+string.category_delete_current = Verwijder huidige categorie
+string.category_all = Alles
+string.category_loading_error = Problemen tijdens het laden categorie
+string.category_add = Nieuwe categorie
+string.category_edit = Bewerk categorie
+string.category_delete = Verwijder categorie
+string.category_save_error = Kan categorie niet opslaan
+string.category_delete_error = Kan categorie niet verwijderen
+string.category_delete_not_empty = U kunt alleen lege categorien verijderen
+string.category_delete_confirm = Weet u zeker dat u deze categorie en zijn taken wilt verwijderen?
+string.category_must_create = U moet een categorie aanmaken
+
+string.task = taak
+string.task_ufirst = Taak
+string.tasks = taak
+string.task_loading_error = Problemen tijdens het laden van de taak
+string.task_name = Naam
+string.task_description = Omschrijving
+string.task_priority = Prioriteit
+string.task_creation_date = Aanmaakdatum
+string.task_due_date = Plandatum
+string.task_due_date_not = Geen
+string.task_completed = Voltooid
+string.task_completed_not = Niet Voltooid
+string.task_timer = Timer
+string.task_price = Prijs
+string.task_price_not = Geen
+string.task_price_sum = Opsomming subtaken
+string.task_paid = Betaald
+string.task_paid_not = Niet betaald
+string.task_perhour = Per uur
+string.task_payment = Betalingsvoorwaarden
+string.task_payment_note = Betalingsnotitie
+string.task_notes = Notitie
+string.task_attachments = Bijlagen
+string.task_new = Nieuwe taak
+string.task_add = Nieuwe taak
+string.task_edit = Bewerk taak
+string.task_move = Verplaats taak
+string.task_delete = Verwijder taak
+string.task_delete_confirm = De geselecteerde taak verwijderen?
+string.task_delete_confirm_with_children = Deze taak en al zijn sub-taken verwijderen?
+string.task_save_error = Taak kan niet worden opgeslagen
+string.task_delete_error = Taak kan niet worden verwijderd
+string.task_edit_error = Taak kan niet worden bewerkt
+string.task_use_timer = Gebruik een timer voor deze taak
+string.task_timer_start = Start taak timer
+string.task_timer_pause = Pause taak time
+string.task_timer_reset = Reset
+string.task_timer_sum = Opsomming subtaken
+string.task_timer_error = Kan taak timer niet bewerken
+string.task_timer_is_running = Taak timer loop. U kunt de timer nu niet bewerken.
+string.task_sub_of = Subtaak van
+string.task_sub_new = Nieuwe subtaak of selecteer er een
+string.task_sub_new_tray = nieuwe subtaak van
+string.task_sub_new_short = Nieuwe Subtaak
+string.task_dates_time = Datum en tijd
+string.task_payments = Betaling
+string.task_notes_view = Bekijk notities
+string.task_payment_edit = Bewerk betalingsvoorwaarden
+string.task_set_completed = Markeer taak als voltooid
+string.task_set_uncompleted = Markeer taak als onvoltooid
+
+string.today = Vandaag
+string.tomorrow = Morgen
+string.yesterday = Gisteren
+
+string.task_move_in = Verplaats in
+string.task_move_as_sub_of = Verplaats als subtaak van
+string.task_moving_error = Kan taak in huidige positie niet verplaatsen
+
+string.note_new = Nieuwe notitie
+string.note_delete = Verwijder geselecteerde notitie 
+string.note_loading_error = Problemen tijden het laden van de notitie
+string.note_save_error = Problemen tijden opslaan notitie
+string.note_delete_error = Notitie kan niet worden verwijderd
+string.note_monospace = Monospace
+string.note_word_wrap = Uitvullen
+
+string.colour = Kleur
+string.colour_choose = Meer
+string.colour_as = Als
+
+string.tools = Tools
+
+string.export_csv = Export CSV
+string.export_csv_title = Export alle taken als CSV
+string.export_csv_ok = Data gesaved tot
+string.export_csv_error = Onbekende fout! Data kan niet worden geexporteerd.
+
+string.backup_do = Database Backup
+string.backup_done = Backup voltooid
+string.backup_error = Backup van database kan niet worden gemaakt
+string.backup_in = Backup de database in
+
+string.options = Opties
+string.options_gui = Interface (GUI)
+string.options_appearance = Indeling
+string.options_style_flat = Plat
+string.options_style_standard = Standaard
+string.options_menu = Menu
+string.options_toolbar = Toolbar
+string.options_categories_bar = Categorie bar
+string.options_language = Taal
+string.options_currency = Valuta
+string.options_backups = Backups
+string.options_automatic_backup = Automatische backups
+string.options_automatic_backup_text = Backup de database als Todomoo sluit
+string.options_backup_tip = Als u een backup wilt herstellen, open dan de backup directory, sluit Todomoo en vervang de "db.sqlite" file (deze bevindt zich in de Todomoo executable directory) door het backupbestand.
+string.options_backup_dir = Open backup directory
+string.options_behaviour = Gedrag
+string.options_closing = Als het standaard venster wordt gesloten
+
+string.running_timers_confirm = Er lopen timers. Het sluiten van Todomoo zet ze op pauze.
+
+string.help_website = Ga naar Todomoo website
+string.help_project_page = Ga naar projectpagina op SourceForge.net
+string.help_about = Over Todomoo
+
+string.priority_set_error = Kan prioriteit niet instellen
+string.priority_low = Laag
+string.priority_medium = Medium
+string.priority_high = Hoog
+
+string.status_loading_categories = Catogorieen worden geladen
+string.status_loading_tasks = Taken worden geladen
+string.status_loaded_categories = Categorien geladen
+string.status_loaded_tasks = Taken geladen
+string.status_loaded_category = Categorie geladen
+string.status_loaded_task = taak geladen
+string.status_total_task = totaal taak
+string.status_total_tasks = totaal taken
+string.status_cat_task = taak in deze categorie
+string.status_cat_tasks = taken in deze categorie
+string.status_hidden_task = verborgen taak
+string.status_hidden_tasks = verborgen taken
+string.status_completed_task = voltooide taak
+string.status_completed_tasks = voltooide taken
+
+string.updates = Updates
+string.updates_check = Check voor updates
+string.updates_checking = Checking voor updates
+string.updates_updated = Geen updates beschikbaar. U gebruikt de laatste Todomoo versie.
+string.updates_new_version = Een nieuwe versie, {0} is is beschikbaar om te downloaden!
+string.updates_download_setup = Download Todomoo {0} setup ({1} KB)
+string.updates_download_portable = Download Todomoo {0} portable ({1} KB)
+string.updates_error = Kan niet met Todomoo website verbinden. probeer het later.
+string.updates_auto = Check automatisch voor updates
