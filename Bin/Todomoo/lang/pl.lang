@@ -1,0 +1,180 @@
+﻿string.lang_code = pl
+
+string.name = Nazwa
+string.ok = Ok
+string.add = Dodaj
+string.edit = OK
+string.delete = Usuń
+string.cancel = Anuluj
+string.close = Zamknij
+string.open = Otwórz Todomoo
+string.exit = Wyjście
+string.close_program = Zamknij Todomoo
+string.minimize_to_tray = Minimalizuj do paska zadań
+string.default = Domyślny
+string.invalid_entry = Niewłaściwe dane
+string.already_running = Todomoo jest już uruchomiony
+
+string.hide_completed_tasks = Ukryj zakończone zadania
+string.flat_view = Płaski widok
+string.expand_all = Rozwiń wszystko
+string.collapse_all = Zwiń wszystko
+
+string.info = Informacje
+string.warning = Ostrzeżenie
+string.error = Błąd
+string.critical = Błąd krytyczne
+string.confirm = Potwierdź
+
+string.category = Kategoria
+string.category_new = Nowa kategoria
+string.category_new_short = Nowa
+string.category_edit_current = Edytuj wybraną kategorię
+string.category_delete_current = Usuń wybraną kategorię
+string.category_all = Wszystkie
+string.category_loading_error = Problem przy wczytywaniu kategorii
+string.category_add = Nowa kategoria
+string.category_edit = Edytuj kategorię
+string.category_delete = Usuń kategorię
+string.category_save_error = Nie można zapisać kategorii
+string.category_delete_error = Nie można usunąć kategorii
+string.category_delete_not_empty = Można usunąć tylko pustą kategorię
+string.category_delete_confirm = Czy jesteś piwien, że chcesz usunąć tą kategorię i wszystkie jej zadania?
+string.category_must_create = Musisz utworzyć kategorię
+
+string.task = zadanie
+string.task_ufirst = Zadanie
+string.tasks = zadanie
+string.task_loading_error = Problemy przy wczytewaniu zadania
+string.task_name = Nazwa
+string.task_description = Opis
+string.task_priority = Priorytet
+string.task_creation_date = Data utworzenia
+string.task_due_date = Termin wykonania
+string.task_due_date_not = Brak
+string.task_completed = Zakończone
+string.task_completed_not = Nie zakończone
+string.task_timer = Zegar
+string.task_price = Cena
+string.task_price_not = Brak
+string.task_price_sum = Suma podzadań
+string.task_paid = Zapłacone
+string.task_paid_not = Nie zapłacone
+string.task_perhour = Na godzinę
+string.task_payment = Warunki płatności
+string.task_payment_note = Notka o płatności
+string.task_notes = Notatki
+string.task_attachments = Załączniki
+string.task_new = Nowe zadanie
+string.task_add = Dodanie zadanie
+string.task_edit = Edycja zadania
+string.task_move = Przesuwanie zadania
+string.task_delete = Usuwanie zadania
+string.task_delete_confirm = Usunąć wybrane zadanie?
+string.task_delete_confirm_with_children = Usunąć to zadanie i wszystkie podzadania?
+string.task_save_error = Nie można zapisać zadania
+string.task_delete_error = Nie można usunąć zadania
+string.task_edit_error = Nie można edytować zadania
+string.task_use_timer = Użyj zegara w tym zadaniu
+string.task_timer_start = Uruchom zegar zadania
+string.task_timer_pause = Przerwa w zadaniu
+string.task_timer_reset = Resetuj
+string.task_timer_sum = Suma podzadań
+string.task_timer_error = Nie można edytować zegara zadania
+string.task_timer_is_running = Zegar zadania jest uruchomiony i nie może być edytowany.
+string.task_sub_of = Podzadanie wyłączone
+string.task_sub_new = Nowe podzadanie tego zadania
+string.task_sub_new_tray = Nowe podzadanie wyłączone
+string.task_sub_new_short = Nowe podzadanie
+string.task_dates_time = Daty i czas
+string.task_payments = Płatność
+string.task_notes_view = Pokaż notatki
+string.task_payment_edit = Edytuj szczegóły płatności
+string.task_set_completed = Oznacz jako zakończone
+string.task_set_uncompleted = Oznacz jako niezakończone
+
+string.today = Dziś
+string.tomorrow = Jutro
+string.yesterday = Wczoraj
+
+string.task_move_in = Przesuń do
+string.task_move_as_sub_of = Przesuń jako podzadanie do
+string.task_moving_error = Nie można przesunąć zadania do tej pozycji
+
+string.note_new = Nowa notatka
+string.note_delete = Usuń wybraną notatkę
+string.note_loading_error = Problemy z wczytaniem notatki
+string.note_save_error = Nie można zapisać notatki
+string.note_delete_error = Nie można usunąć notatki
+string.note_monospace = Monospace
+string.note_word_wrap = Zawijanie wierszy
+
+string.colour = Kolor
+string.colour_choose = Inne
+string.colour_as = Jak
+
+string.tools = Narzędzia
+
+string.export_csv = Eksportuj jako CSV
+string.export_csv_title = Eksport wszystkie zadania jako CSV
+string.export_csv_ok = Dane zapisane do
+string.export_csv_error = Nie można eksportować danych. Nieznany błąd.
+
+string.backup_do = Wykonanie kopii bezpieczeństwa
+string.backup_done = Kopia bezpieczeństwa wykonana
+string.backup_error = Nie można wykonać kopii bezpieczeństwa
+string.backup_in = Dane zapisano w 
+
+string.options = Opcje
+string.options_gui = Interfejs (GUI)
+string.options_appearance = Widok
+string.options_style_flat = Płaski
+string.options_style_standard = Standardowy
+string.options_menu = Menu
+string.options_toolbar = Pasek narzędzi
+string.options_categories_bar = Pasek kategorii
+string.options_language = Język
+string.options_currency = Waluta
+string.options_backups = Kopie bezpieczeństwa
+string.options_automatic_backup = Automatyczne kopie bezpieczeństwa
+string.options_automatic_backup_text = Kopia bezpieczeństwa przy zamykaniu Todomoo
+string.options_backup_tip = Jeśli chcesz odtworzyć dane z kopii, otwórz katalog z kopią bezpieczeństwa, zamknij Todomoo i zamień plik "db.sqlite" (jest w katalogu uruchomieniowym Todomoo) zachowaną kopią bezpieczeństwa.
+string.options_backup_dir = Otwórz katalog z kopiami bezpieczeństwa
+string.options_behaviour = Postępowanie
+string.options_closing = Przy zamykaniu głównego okna
+
+string.running_timers_confirm = Jest uruchomiony zerag. Zamknięcie Todomoo spowoduje jego zatrzymanie.
+
+string.help_website = Przejdź do strony internetowej Todomoo
+string.help_project_page = Przejdź do strony projektu na SourceForge.net
+string.help_about = O Todomoo
+
+string.priority_set_error = Nie można nadać priorytetu
+string.priority_low = Niski
+string.priority_medium = Średni
+string.priority_high = Wysoki
+
+string.status_loading_categories = Wczytywanie kategorii
+string.status_loading_tasks = Wczytywanie zadań
+string.status_loaded_categories = Kategorie wczytane
+string.status_loaded_tasks = zadania wczytane
+string.status_loaded_category = kategoria wczytane
+string.status_loaded_task = zadanie wczytane
+string.status_total_task = Główne zadanie
+string.status_total_tasks = główne zadania
+string.status_cat_task = zadanie w tej kategorii
+string.status_cat_tasks = zadania w tej kategorii
+string.status_hidden_task = ukryte zadanie
+string.status_hidden_tasks = ukryte zadania
+string.status_completed_task = zakończone zadanie
+string.status_completed_tasks = zakończone zadania
+
+string.updates = Aktualizacja
+string.updates_check = Sprawdź aktualizację
+string.updates_checking = Trwa sprawdzanie aktualizacji 
+string.updates_updated = Brak aktualizacji. Używasz najnowszej wersji Todomoo.
+string.updates_new_version = Nowa wersja, {0} jest dostępna do pobrania!
+string.updates_download_setup = Pobierz Todomoo {0} setup ({1} KB)
+string.updates_download_portable = Pobierz Todomoo {0} portable ({1} KB)
+string.updates_error = Nie można połączyć się ze stroną Todomoo. Spróbuj później.
+string.updates_auto = Automatyczne sprawdzanie aktualizacji.

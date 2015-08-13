@@ -1,0 +1,179 @@
+﻿string.lang_code = ru
+
+string.name = Имя
+string.ok = Ok
+string.add = Добавить
+string.edit = Редактировать
+string.delete = Удалить
+string.cancel = Назад
+string.close = Закрыть
+string.open = Открыть Todomoo
+string.exit = Выход
+string.close_program = Закрыть
+string.minimize_to_tray = Свернуть в трей
+string.default = По умолчанию
+string.invalid_entry = Неверный ввод!
+string.already_running = Todomoo уже запущен
+
+string.hide_completed_tasks = Скрыть завершенные задачи
+string.flat_view = Плоский вид
+string.expand_all = Развернуть все
+string.collapse_all = Свернуть все
+string.info = Информация
+string.warning = Внимание!
+string.error = Ошибка
+string.critical = Критическая ошибка
+string.confirm = Подтверждение
+
+string.category = Категория
+string.category_new = Новая категория
+string.category_new_short = Новая
+string.category_edit_current = Редакт. текущую категорию
+string.category_delete_current = Удалить текущую категорию
+string.category_all = Все
+string.category_loading_error = Проблемы при загрузке категории
+string.category_add = Новая категория
+string.category_edit = Редактировать категорию
+string.category_delete = Удалить категорию
+string.category_save_error = Невозможно сохранить категорию
+string.category_delete_error = Невозможно удалить категорию
+string.category_delete_not_empty = Вы можете удалить только пустые категории
+string.category_delete_confirm = Вы уверены, что хотите удалить эту категорию и все ее задачи?
+string.category_must_create = Вы должны создать категорию
+
+string.task = задача
+string.task_ufirst = задача
+string.tasks = задачи
+string.task_loading_error = Проблемы при загрузке задачи
+string.task_name = Имя
+string.task_description = Описание
+string.task_priority = Приоритет
+string.task_creation_date = Дата создания
+string.task_due_date = Срок
+string.task_due_date_not = Ни один
+string.task_completed = Завершенный
+string.task_completed_not = Не завершены
+string.task_timer = Таймер
+string.task_price = Цена
+string.task_price_not = Выкл.
+string.task_price_sum = Сумма подзадач
+string.task_paid = Платеж
+string.task_paid_not = Без выплат
+string.task_perhour = За час
+string.task_payment = Примечания к платежу
+string.task_payment_note = Заметки к платежу
+string.task_notes = Заметки
+string.task_attachments = Вложения
+string.task_new = Новая задача
+string.task_add = Добавить задачу-
+string.task_edit = Редактировать задачу
+string.task_move = Переместить задачу
+string.task_delete = Удалить задачу
+string.task_delete_confirm = Удалить выбранные задачи?
+string.task_delete_confirm_with_children = Удалить эту задачу и все ее подзадачи?
+string.task_save_error = Не удается сохранить задачу
+string.task_delete_error = Не удается удалить задачу
+string.task_edit_error = Не удается редактировать задачу
+string.task_use_timer = Использовать таймер
+string.task_timer_start = Запустить таймер
+string.task_timer_pause = Остановить время выполнения задачи
+string.task_timer_reset = Сбросить
+string.task_timer_sum = Сумма подзадач
+string.task_timer_error = Не удается редактировать таймер задачи
+string.task_timer_is_running = Таймер задачи работает. Невозможно редактировать сейчас!
+string.task_sub_of = Подзадача
+string.task_sub_new = Новая подзадача в выбранном
+string.task_sub_new_tray = Новая подзадача
+string.task_sub_new_short = Новая подзадача
+string.task_dates_time = Дата и время
+string.task_payments = Платеж
+string.task_notes_view = Просмотреть заметки
+string.task_payment_edit = Редактировать реквизиты платежа
+string.task_set_completed = Выполнено
+string.task_set_uncompleted = Отметить задачу как незавершенную
+
+string.today = Сегодня
+string.tomorrow = Завтра
+string.yesterday = Вчера
+
+string.task_move_in = Перемещение в
+string.task_move_as_sub_of = Переместить как подзадачу
+string.task_moving_error = Не удается переместить задачу в этом положении
+
+string.note_new = Новая заметка
+string.note_delete = Удалить выбранную заметку
+string.note_loading_error = Проблемы при загрузке заметки
+string.note_save_error = Невозможно сохранить заметку
+string.note_delete_error = Невозможно удалить заметку
+string.note_monospace = Моноширинный
+string.note_word_wrap = Перенос по словам
+
+string.colour = Цвет
+string.colour_choose = Больше
+string.colour_as = Как
+
+string.tools = Инструменты
+
+string.export_csv = Экспорт CSV
+string.export_csv_title = Экспорт всех задач CSV
+string.export_csv_ok = Данные, сохраненные на
+string.export_csv_error = Нельзя экспортировать данные. Неизвестная ошибка.
+
+string.backup_do = Резервное копирование базы данных
+string.backup_done = Резерв. копирование завершено!
+string.backup_error = Нельзя создать резервные копии базы данных
+string.backup_in = Создать резервную копию в
+
+string.options = Опции
+string.options_gui = Интерфейс (GUI)
+string.options_appearance = Вид
+string.options_style_flat = Плоский вид   
+string.options_style_standard = Стандартный вид
+string.options_menu = Меню
+string.options_toolbar = Тулбар
+string.options_categories_bar = Бар категорий
+string.options_language = Язык
+string.options_currency = Валюта
+string.options_backups = Резервные копии
+string.options_automatic_backup = Автоматич. резервное копирование
+string.options_automatic_backup_text = Резервное копирование базы данных, при закрытии Todomoo
+string.options_backup_tip = Если вы хотите восстановить резервную копию, откройте соотв. дирректорию, закройте Todomoo а затем замените "DB.SQLite" файл (то есть в каталоге исполняемый Todomoo)скопированным резервной копии.
+string.options_backup_dir = Открыть каталог резервного копирования
+string.options_behaviour = Поведение
+string.options_closing = При закрытии главного окна
+
+string.running_timers_confirm = Здесь работают таймеры. Закрытие Todomoo приостановит их.
+
+string.help_website = Посетите веб-сайт Todomoo
+string.help_project_page = Cтраница проекта на SourceForge.net
+string.help_about = О программе
+
+string.priority_set_error = Невозможно установить приоритет
+string.priority_low = Низкий
+string.priority_medium = Средний
+string.priority_high = Высокий
+
+string.status_loading_categories = Загрузка категорий
+string.status_loading_tasks = Загрузка задач
+string.status_loaded_categories = Категории загрузок
+string.status_loaded_tasks = Задач загружается
+string.status_loaded_category = Категория загруженных
+string.status_loaded_task = Загруженных задач
+string.status_total_task = Общей задачи
+string.status_total_tasks = Всего задач
+string.status_cat_task = Задача в этой категории
+string.status_cat_tasks = Задачи в этой категории
+string.status_hidden_task = Скрытые задачи
+string.status_hidden_tasks = Скрытых задач
+string.status_completed_task = Выполненная задача
+string.status_completed_tasks = Выполненных задач
+
+string.updates = Обновления
+string.updates_check = Проверить обновления
+string.updates_checking = Проверка обновлений
+string.updates_updated = Нет доступных обновлений, вы используете последнюю версию Todomoo.
+string.updates_new_version = Новая версия, {0} доступна для загрузки!
+string.updates_download_setup = Загрузка Todomoo {0} установка ({1} KB)
+string.updates_download_portable = Загрузка Todomoo {0} портативный ({1} KB)
+string.updates_error = Невозможно подключиться к Web-сайту Todomoo. Попробуйте позже.
+string.updates_auto = Автоматически проверять обновления

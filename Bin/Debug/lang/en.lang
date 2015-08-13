@@ -1,0 +1,180 @@
+﻿string.lang_code = en
+
+string.name = Name
+string.ok = Ok
+string.add = Add
+string.edit = Edit
+string.delete = Delete
+string.cancel = Cancel
+string.close = Close
+string.open = Open Todomoo
+string.exit = Exit
+string.close_program = Close Todomoo
+string.minimize_to_tray = Minimize to tray
+string.default = Default
+string.invalid_entry = Invalid entry
+string.already_running = Todomoo is already running
+
+string.hide_completed_tasks = Hide completed tasks
+string.flat_view = Flat view
+string.expand_all = Expand all
+string.collapse_all = Collapse all
+
+string.info = Information
+string.warning = Warning
+string.error = Error
+string.critical = Critical error
+string.confirm = Confirm
+
+string.category = Category
+string.category_new = New category
+string.category_new_short = New
+string.category_edit_current = Edit current category
+string.category_delete_current = Delete current category
+string.category_all = All
+string.category_loading_error = Problems while loading category
+string.category_add = New category
+string.category_edit = Edit category
+string.category_delete = Delete category
+string.category_save_error = Cannot save category
+string.category_delete_error = Cannote delete category
+string.category_delete_not_empty = You can delete only empty categories
+string.category_delete_confirm = Are you sure you want to delete this category and all its tasks?
+string.category_must_create = You must create a category
+
+string.task = task
+string.task_ufirst = Task
+string.tasks = task
+string.task_loading_error = Problems while loading task
+string.task_name = Name
+string.task_description = Description
+string.task_priority = Priority
+string.task_creation_date = Creation date
+string.task_due_date = Due date
+string.task_due_date_not = None
+string.task_completed = Completed
+string.task_completed_not = Not completed
+string.task_timer = Timer
+string.task_price = Price
+string.task_price_not = None
+string.task_price_sum = Sum subtasks
+string.task_paid = Paid
+string.task_paid_not = Not being paid
+string.task_perhour = Per hour
+string.task_payment = Terms of payment
+string.task_payment_note = Payment note
+string.task_notes = Notes
+string.task_attachments = Attachments
+string.task_new = New task
+string.task_add = New task
+string.task_edit = Edit task
+string.task_move = Move task
+string.task_delete = Delete task
+string.task_delete_confirm = Delete the selected task?
+string.task_delete_confirm_with_children = Delete this task and all its sub-tasks?
+string.task_save_error = Cannot save task
+string.task_delete_error = Cannot delete task
+string.task_edit_error = Cannot edit task
+string.task_use_timer = Use a timer for this task
+string.task_timer_start = Start task timer
+string.task_timer_pause = Pause task time
+string.task_timer_reset = Reset
+string.task_timer_sum = Sum subtasks
+string.task_timer_error = Cannot edit task timer
+string.task_timer_is_running = Task timer is running. You can't edit it now.
+string.task_sub_of = Sub-task of
+string.task_sub_new = New sub-task of selected one
+string.task_sub_new_tray = New sub-task of
+string.task_sub_new_short = New sub-task
+string.task_dates_time = Dates and time
+string.task_payments = Payment
+string.task_notes_view = View notes
+string.task_payment_edit = Edit payment details
+string.task_set_completed = Mark task as completed
+string.task_set_uncompleted = Mark task as uncompleted
+
+string.today = Today
+string.tomorrow = Tomorrow
+string.yesterday = Yesterday
+
+string.task_move_in = Move in
+string.task_move_as_sub_of = Move as sub task of
+string.task_moving_error = Cannot move task in this position
+
+string.note_new = New note
+string.note_delete = Delete selected note
+string.note_loading_error = Problems while loading note
+string.note_save_error = Cannot save note
+string.note_delete_error = Cannot delete note
+string.note_monospace = Monospace
+string.note_word_wrap = Word wrap
+
+string.colour = Colour
+string.colour_choose = More
+string.colour_as = As
+
+string.tools = Tools
+
+string.export_csv = Export CSV
+string.export_csv_title = Export all tasks to CSV
+string.export_csv_ok = Data saved to
+string.export_csv_error = Cannot export data. Unknown error.
+
+string.backup_do = Backup the database
+string.backup_done = Backup done
+string.backup_error = Cannot backup the database
+string.backup_in = Backup the database in
+
+string.options = Options
+string.options_gui = Interface (GUI)
+string.options_appearance = Appearance
+string.options_style_flat = Flat
+string.options_style_standard = Standard
+string.options_menu = Menu
+string.options_toolbar = Toolbar
+string.options_categories_bar = Category bar
+string.options_language = Language
+string.options_currency = Currency
+string.options_backups = Backups
+string.options_automatic_backup = Automatic backups
+string.options_automatic_backup_text = Backup the database when Todomoo is closed
+string.options_backup_tip = If you want to restore a backup, open the backup direcory, close Todomoo and then replace the "db.sqlite" file (that is in the Todomoo executable directory) with a backed up one.
+string.options_backup_dir = Open backup directory
+string.options_behaviour = Behaviour
+string.options_closing = When the main window is closed
+
+string.running_timers_confirm = There are running timers. Closing Todomoo will pause them.
+
+string.help_website = Visit Todomoo website
+string.help_project_page = Visit project page on SourceForge.net
+string.help_about = About Todomoo
+
+string.priority_set_error = Cannot set priority
+string.priority_low = Low
+string.priority_medium = Medium
+string.priority_high = High
+
+string.status_loading_categories = Loading categories
+string.status_loading_tasks = Loading tasks
+string.status_loaded_categories = categories loaded
+string.status_loaded_tasks = tasks loaded
+string.status_loaded_category = category loaded
+string.status_loaded_task = task loaded
+string.status_total_task = total task
+string.status_total_tasks = total tasks
+string.status_cat_task = task in this category
+string.status_cat_tasks = tasks in this category
+string.status_hidden_task = hidden task
+string.status_hidden_tasks = hidden tasks
+string.status_completed_task = completed task
+string.status_completed_tasks = completed tasks
+
+string.updates = Updates
+string.updates_check = Check for updates
+string.updates_checking = Checking for updates
+string.updates_updated = No updates available. You are using the latest Todomoo version.
+string.updates_new_version = A new version, {0} is available to download!
+string.updates_download_setup = Download Todomoo {0} setup ({1} KB)
+string.updates_download_portable = Download Todomoo {0} portable ({1} KB)
+string.updates_error = Can't connect to Todomoo website. Retry later.
+string.updates_auto = Automatically checks for updates

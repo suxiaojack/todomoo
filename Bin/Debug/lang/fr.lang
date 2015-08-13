@@ -1,0 +1,180 @@
+string.lang_code = fr
+
+string.name = Nom
+string.ok = Ok
+string.add = Ajouter
+string.edit = Modifier
+string.delete = Supprimer
+string.cancel = Annuler
+string.close = Fermer
+string.open = Ouvrir Todomoo
+string.exit = Quitter
+string.close_program = Quitter Todomoo
+string.minimize_to_tray = Réduire 
+string.default = Défaut
+string.invalid_entry = Saisie invalide
+string.already_running = Todomoo est déjà lancé
+
+string.hide_completed_tasks = Masquer les tâches terminées
+string.flat_view = Vue liste
+string.expand_all = Tout ouvrir
+string.collapse_all = Tout fermer
+
+string.info = Information
+string.warning = Alerte
+string.error = Erreur
+string.critical = Erreur critique
+string.confirm = Confirmer
+
+string.category = Catégorie
+string.category_new = Nouvelle catégorie
+string.category_new_short = Nouvelle
+string.category_edit_current = Modifer catégorie courante
+string.category_delete_current = Supprimer catégorie courante
+string.category_all = Toutes
+string.category_loading_error = Problèmes lors du chargement de la catégorie
+string.category_add = Nouvelle catégorie
+string.category_edit = Modifier catégorie
+string.category_delete = Supprimer catégorie
+string.category_save_error = Impossible d'enregistrer la catégorie
+string.category_delete_error = Impossible de supprimer la catégorie
+string.category_delete_not_empty = Vous ne pouvez supprimer que des catégories vides
+string.category_delete_confirm = Etes-vous sûr de vouloir supprimer cette catégorie et toutes ses tâches?
+string.category_must_create = Vous devez créer une catégorie
+
+string.task = tâche
+string.task_ufirst = Tâche
+string.tasks = tâche
+string.task_loading_error = Problèmes lors du chagement de la tâche
+string.task_name = Nom
+string.task_description = Description
+string.task_priority = Priorité
+string.task_creation_date = Date de création
+string.task_due_date = Echéance
+string.task_due_date_not = Aucune
+string.task_completed = Terminé
+string.task_completed_not = Non terminé
+string.task_timer = Compteur
+string.task_price = Prix
+string.task_price_not = Aucun
+string.task_price_sum = Total des sous-tâches
+string.task_paid = Payé
+string.task_paid_not = Non payé
+string.task_perhour = Par heure
+string.task_payment = Conditions paiement
+string.task_payment_note = Note paiement
+string.task_notes = Notes
+string.task_attachments = Pièces jointes
+string.task_new = Nouvelle tâche
+string.task_add = Nouvelle tâche
+string.task_edit = Modifier tâche
+string.task_move = Déplacer task
+string.task_delete = Supprimer tâche
+string.task_delete_confirm = Supprimer la tâche sélectionnée ?
+string.task_delete_confirm_with_children = Supprimer cette tâche et toutes les sous-tâches ?
+string.task_save_error = Impossible d'enregistrer la tâches
+string.task_delete_error = Impossible de supprimer la tâche
+string.task_edit_error = Impossible de modifier la tâche
+string.task_use_timer = Utiliser un compteur pour cette tâche
+string.task_timer_start = Démarrer le compteur tâche
+string.task_timer_pause = Mettre en pause
+string.task_timer_reset = Réinitialiser
+string.task_timer_sum = Additionner les sous-tâches
+string.task_timer_error = Impossible de modifier le compteur tâche
+string.task_timer_is_running = Le compteur tâche n'est pas lancé. Impossible de la modifier.
+string.task_sub_of = Sous-tâche de
+string.task_sub_new = Nouvelle sous-tâche de la tâche sélectionnée
+string.task_sub_new_tray = Nouvelle sous-tâche de
+string.task_sub_new_short = Nouvelle sous-tâche
+string.task_dates_time = Dates et temps
+string.task_payments = Paiement
+string.task_notes_view = Afficher les notes
+string.task_payment_edit = Modifier les détails des paiements
+string.task_set_completed = Marquer la tâche comme terminée
+string.task_set_uncompleted = Marquer la tâche comme inachevée
+
+string.today = Aujourd'hui
+string.tomorrow = Demain
+string.yesterday = Hier
+
+string.task_move_in = Déplacer dans
+string.task_move_as_sub_of = Déplacer comme sous-tâche de
+string.task_moving_error = Impossible de déplacer la tâche dans cette position
+
+string.note_new = Nouvelle note
+string.note_delete = Supprimer la note sélectionnée
+string.note_loading_error = Problèmes lors du chargement de la note
+string.note_save_error = Impossible d'enregistrer la note
+string.note_delete_error = Impossible de supprimer la note
+string.note_monospace = Monospace
+string.note_word_wrap = Word wrap
+
+string.colour = Couleur
+string.colour_choose = Plus
+string.colour_as = As
+
+string.tools = Outils
+
+string.export_csv = Export CSV
+string.export_csv_title = Exporter toutes les tâches en CSV
+string.export_csv_ok = Données exportées vers
+string.export_csv_error = Impossible d'exporter les données. Erreur inconnue.
+
+string.backup_do = Sauvegarder la base de données
+string.backup_done = Sauvegarde terminée
+string.backup_error = Impossible de sauvegarder la base de données
+string.backup_in = Sauvegarder les base de données vers
+
+string.options = Options
+string.options_gui = Interface utilisateur
+string.options_appearance = Apparance
+string.options_style_flat = Liste
+string.options_style_standard = Standard
+string.options_menu = Menu
+string.options_toolbar = Barre d'outils
+string.options_categories_bar = Barre des catégories
+string.options_language = Langue
+string.options_currency = Devise
+string.options_backups = Sauvegardes
+string.options_automatic_backup = Sauvegardes automatiques
+string.options_automatic_backup_text = Sauvegarder la base de données à la fermeture de Todomoo
+string.options_backup_tip = Si vous souhaitez restaurer une sauvegarde, ouvrez le répertoire de sauvegarde, quittez Todomoo et remplacez le fichier "db.sqlite" (qui se trouve au même endroit que l'exécutable Todomoo) par un fichier de sauvegarde.
+string.options_backup_dir = Ouvrir le répertoire de sauvegardes
+string.options_behaviour = Comportement
+string.options_closing = Lorsque l'écran principal est fermé
+
+string.running_timers_confirm = Il y a des compteurs en marche. En quittant Todomoo, ils seront mis en pause.
+
+string.help_website = Visiter le site web Todomoo
+string.help_project_page = Visiter la page du projet sur SourceForge.net
+string.help_about = A propos de Todomoo
+
+string.priority_set_error = Impossible de définir la priorité
+string.priority_low = Bas
+string.priority_medium = Moyen
+string.priority_high = Haut
+
+string.status_loading_categories = Chargement des catégories
+string.status_loading_tasks = Chargement des tâches
+string.status_loaded_categories = catégories chargées
+string.status_loaded_tasks = tâches chargées
+string.status_loaded_category = catégorie chargée
+string.status_loaded_task = tâche chargée
+string.status_total_task = tâche au total
+string.status_total_tasks = tâches au total
+string.status_cat_task = tâche dans cette catégorie
+string.status_cat_tasks = tâches dans cette catégorie
+string.status_hidden_task = tâche masquée
+string.status_hidden_tasks = tâches masquées
+string.status_completed_task = tâche terminée
+string.status_completed_tasks = tâches terminées
+
+string.updates = Mises à jour
+string.updates_check = Vérifier les mises à jour
+string.updates_checking = Recherche de mises à jour
+string.updates_updated = Aucune mise à jour disponible. Vous utilisez la dernière version de Todomoo
+string.updates_new_version = Une nouvelle version, {0} est disponible au téléchargement !
+string.updates_download_setup = Télécharger Todomoo {0} installation ({1} KB)
+string.updates_download_portable = Télécharger Todomoo {0} portable ({1} KB)
+string.updates_error = Impossible de se connecter au site web Todomoo. Réessayez plus tard.
+string.updates_auto = Vérifier automatiquement les mises à jour
