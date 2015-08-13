@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Todomoo", "Todomoo.csproj", "{EE1C8697-9B99-41FC-8CEA-375DEE9DFD14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectListView", "ObjectListView\ObjectListView.csproj", "{18FEDA0C-D147-4286-B39A-01204808106A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageCombo", "ImageCombo\ImageCombo.csproj", "{400FA4FB-92A3-4448-A915-930A8A2C0C5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE1C8697-9B99-41FC-8CEA-375DEE9DFD14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE1C8697-9B99-41FC-8CEA-375DEE9DFD14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE1C8697-9B99-41FC-8CEA-375DEE9DFD14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE1C8697-9B99-41FC-8CEA-375DEE9DFD14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18FEDA0C-D147-4286-B39A-01204808106A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18FEDA0C-D147-4286-B39A-01204808106A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18FEDA0C-D147-4286-B39A-01204808106A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18FEDA0C-D147-4286-B39A-01204808106A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{400FA4FB-92A3-4448-A915-930A8A2C0C5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{400FA4FB-92A3-4448-A915-930A8A2C0C5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{400FA4FB-92A3-4448-A915-930A8A2C0C5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{400FA4FB-92A3-4448-A915-930A8A2C0C5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
